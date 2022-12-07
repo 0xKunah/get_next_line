@@ -12,7 +12,8 @@
 		<li><a href="#issues">Issues</a></li>
 	</ul>
 	<h2 id="resume">Resume</h2>
-	<p>get_next_line is a function that read the next line of the given file descriptor, can be a file, stdin... it reads using a BUFFER_SIZE, that you can redefine using `-D BUFFER_SIZE=number` flag when compiling</p>
+	<p>get_next_line is a function that read the next line of the given file descriptor, can be a file, stdin... it reads using a BUFFER_SIZE, that you can redefine using 
+	<code>-D BUFFER_SIZE=number</code> flag when compiling</p>
 	<h2 id="issues">Issues</h2>
 	<p>If you find a bug or encounter an issue using this funciton, feel free to open a issue, or a pull request if you know ho to fix it</p>
 </body>
